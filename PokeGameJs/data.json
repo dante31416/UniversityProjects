@@ -1,0 +1,89 @@
+[{
+    "TAnimationEnemies" :{
+        "nidokingMove": {
+            "numberAnimation": 0,
+            "numberFrames": 4
+        },
+        "nidokingDeath": {
+            "numberAnimation": 1,
+            "numberFrames": 1
+        },
+        "arbokMove": {
+            "numberAnimation": 2,
+            "numberFrames": 4
+        },
+        "arbokDeath": {
+            "numberAnimation": 3,
+            "numberFrames": 1
+        },
+        "magnemiteMove": {
+            "numberAnimation": 4,
+            "numberFrames": 4
+        },
+        "magnemiteDeath": {
+            "numberAnimation": 5,
+            "numberFrames": 1
+        },
+        "magnetonMove": {
+            "numberAnimation": 6,
+            "numberFrames": 4
+        },
+        "magnetonDeath": {
+            "numberAnimation": 7,
+            "numberFrames": 1
+        }
+    
+    },
+    
+     "TAnimationPlayers" :{
+        "idleDown": {
+            "numberAnimation": 0,
+            "numberFrames": 2
+        },
+        "idleUp": {
+            "numberAnimation": 1,
+            "numberFrames": 2
+        },
+        "idleRigth": {
+            "numberAnimation": 2,
+            "numberFrames": 2
+        },
+        "idleLeft": {
+            "numberAnimation": 3,
+            "numberFrames": 2
+        },
+        "moveDown": {
+            "numberAnimation": 4,
+            "numberFrames": 2
+        },
+        "moveUp": {
+            "numberAnimation": 5,
+            "numberFrames": 2
+        },
+        "moveRigth": {
+            "numberAnimation": 6,
+            "numberFrames": 2
+        },
+        "moveLeft": {
+            "numberAnimation": 7,
+            "numberFrames": 2
+        },
+        "attackDown": {
+            "numberAnimation": 8,
+            "numberFrames": 2
+        },
+        "attackUp": {
+            "numberAnimation": 9,
+            "numberFrames": 2
+        },
+        "attackRigth": {
+            "numberAnimation": 10,
+            "numberFrames": 2
+        },
+        "attackLeft": {
+            "numberAnimation": 11,
+            "numberFrames": 2
+        }
+    }
+
+}]
